@@ -38,18 +38,6 @@
   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=OcelotAgent&theme=dark)](https://github.com/OcelotAgent/leetcode-stats)
 
   ![](https://komarev.com/ghpvc/?username=Dmitry-Osipov)
-
-  Светлая большая:  
-  [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)](https://stackoverflow.com/users/6558042/omid-nikrah) 
-  
-  Темная большая:   
-  [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)  
-  
-  Светлая маленькая:   
-  [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&layout=compact)](https://stackoverflow.com/users/6558042/omid-nikrah)
-  
-  Темная маленькая:   
-  [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&layout=compact&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)
 </div>
 
 <!--
