@@ -23,20 +23,8 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitry-Osipov)](https://github.com/Dmitry-Osipov/github-readme-stats)
 
-  Большой (large):  
-  [![codewars](https://www.codewars.com/users/OcelotAgent/badges/large)](https://www.codewars.com/users/OcelotAgent)   
-  
-  Маленький (small):  
-  [![codewars](https://www.codewars.com/users/OcelotAgent/badges/small)](https://www.codewars.com/users/OcelotAgent) 
-  
-  Крошечный (micro):  
-  [![codewars](https://www.codewars.com/users/OcelotAgent/badges/micro)](https://www.codewars.com/users/OcelotAgent) 
+  [![codewars](https://www.codewars.com/users/OcelotAgent/badges/large)](https://www.codewars.com/users/OcelotAgent)    
 
-  Светлая тема:  
-  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=OcelotAgent)](https://github.com/OcelotAgent/leetcode-stats)
-  
-  
-  Темная тема:  
   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=OcelotAgent&theme=dark)](https://github.com/OcelotAgent/leetcode-stats)
 
   ![](https://komarev.com/ghpvc/?username=Dmitry-Osipov)
