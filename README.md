@@ -12,6 +12,8 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Java+Developer,+idea+executor)](https://git.io/typing-svg)
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/Dmitry-Osipov/github-profile-trophy)
 
@@ -48,8 +50,6 @@
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dmitry-Osipov&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dmitry-Osipov&theme=solarized_dark)
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dmitry-Osipov&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dmitry-Osipov&theme=solarized_dark)
-
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
 
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
