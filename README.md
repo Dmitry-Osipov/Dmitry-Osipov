@@ -19,13 +19,9 @@
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dmitry-Osipov)](https://git.io/streak-stats)
 
-  <!---Для компактной версии-->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitry-Osipov&layout=compact)](https://github.com/Dmitry-Osipov/github-readme-stats)
-  
-  <!---Для подробной версии-->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitry-Osipov)](https://github.com/Dmitry-Osipov/github-readme-stats)
-
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmitry-Osipov)](https://github.com/Dmitry-Osipov/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitry-Osipov)](https://github.com/Dmitry-Osipov/github-readme-stats)
 
   Большой (large):  
   [![codewars](https://www.codewars.com/users/OcelotAgent/badges/large)](https://www.codewars.com/users/OcelotAgent)   
