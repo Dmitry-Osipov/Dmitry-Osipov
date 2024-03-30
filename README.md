@@ -20,6 +20,15 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitry-Osipov)](https://github.com/Dmitry-Osipov/github-readme-stats)
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmitry-Osipov)](https://github.com/Dmitry-Osipov/github-readme-stats)
+
+  Большой (large):  
+  [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/OcelotAgent)   
+  
+  Маленький (small):  
+  [![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/OcelotAgent) 
+  
+  Крошечный (micro):  
+  [![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/OcelotAgent) 
 </div>
 
 <!--
