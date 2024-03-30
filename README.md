@@ -53,6 +53,8 @@
   
   Данные по коммитам за сутки:
   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dmitry-Osipov&theme=solarized_dark)
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
 </div>
 
 <!--
