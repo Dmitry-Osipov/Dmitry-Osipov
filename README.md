@@ -17,7 +17,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitry-Osipov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   <!---Для подробной версии-->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitry-Osipov)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitry-Osipov)](https://github.com/Dmitry-Osipov/github-readme-stats)
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmitry-Osipov)](https://github.com/Dmitry-Osipov/github-readme-stats)
 </div>
