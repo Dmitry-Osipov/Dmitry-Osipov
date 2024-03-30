@@ -36,6 +36,8 @@
   
   Темная тема:  
   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=OcelotAgent&theme=dark)](https://github.com/OcelotAgent/leetcode-stats)
+
+  ![](https://komarev.com/ghpvc/?username=Dmitry-Osipov)
 </div>
 
 <!--
