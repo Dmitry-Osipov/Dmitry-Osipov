@@ -15,7 +15,7 @@
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/Dmitry-Osipov/github-profile-trophy)
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dmitry-Osipov)](https://git.io/streak-stats)
 
   <!---Для компактной версии-->
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitry-Osipov&layout=compact)](https://github.com/Dmitry-Osipov/github-readme-stats)
