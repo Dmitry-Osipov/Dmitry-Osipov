@@ -43,16 +43,16 @@
 
   ![](https://komarev.com/ghpvc/?username=Dmitry-Osipov)
 
-  Статистика профиля:
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dmitry-Osipov&theme=solarized_dark)
   Карточка профиля: 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitry-Osipov&theme=solarized_dark)
-  
-  Статистика языков в коммитах:
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dmitry-Osipov&theme=solarized_dark)
+
+   Статистика профиля:
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dmitry-Osipov&theme=solarized_dark)
   Статистика языков в репозиториях:
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dmitry-Osipov&theme=solarized_dark)
   
+  Статистика языков в коммитах:
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dmitry-Osipov&theme=solarized_dark)  
   Данные по коммитам за сутки:
   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dmitry-Osipov&theme=solarized_dark)
 
