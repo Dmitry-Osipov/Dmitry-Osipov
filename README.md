@@ -15,7 +15,7 @@
   
   ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/Dmitry-Osipov/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Dmitry-Osipov)](https://github.com/Dmitry-Osipov/github-profile-trophy)
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dmitry-Osipov)](https://git.io/streak-stats)
 
