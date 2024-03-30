@@ -5,8 +5,8 @@
 <div id="content" align="center">
   <img src="https://camo.githubusercontent.com/4cb9b98860a01e6a93c5b3eb5fd5a0ae409731635562552752b75ff17b4b2167/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="100" >
 
-  <h1 align="center">Hi there, I'm <a href="https://t.me/The_Real_DO" target="_blank">Dmitry</a> 
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+  <h1 align="center">Hi there, I'm <a href="https://t.me/The_Real_DO" target="_blank">Dmitry</a></h1>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
   <h3 align="center">Java and Python Developer from Russia 🇷🇺 </h3>
 
   ![](https://komarev.com/ghpvc/?username=Dmitry-Osipov)
