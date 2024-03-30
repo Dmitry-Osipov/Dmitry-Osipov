@@ -39,7 +39,7 @@
 
   ![](https://komarev.com/ghpvc/?username=Dmitry-Osipov)
 
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dmitry)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dmitry-Osipov)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <!--
