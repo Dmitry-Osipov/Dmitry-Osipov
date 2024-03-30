@@ -38,6 +38,8 @@
   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=OcelotAgent&theme=dark)](https://github.com/OcelotAgent/leetcode-stats)
 
   ![](https://komarev.com/ghpvc/?username=Dmitry-Osipov)
+
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dmitry)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <!--
