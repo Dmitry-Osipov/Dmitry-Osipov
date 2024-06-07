@@ -7,7 +7,7 @@
 
   <h1 align="center">Hi there, I'm <a href="https://t.me/The_Real_DO" target="_blank">Dmitry</a></h1>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-  <h3 align="center">Java and Python Developer from Russia 🇷🇺 </h3>
+  <h3 align="center">Java and Python Developer</h3>
 
   ![](https://komarev.com/ghpvc/?username=Dmitry-Osipov)
   
