@@ -29,6 +29,8 @@
 
   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=OcelotAgent&theme=dark)](https://github.com/OcelotAgent/leetcode-stats)
 
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitry-Osipov&theme=solarized_dark)
 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dmitry-Osipov&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dmitry-Osipov&theme=solarized_dark)
