@@ -29,7 +29,7 @@
 
   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=OcelotAgent&theme=dark)](https://github.com/OcelotAgent/leetcode-stats)
 
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+  ![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcard.jacoblin.cool/OcelotAgent?theme=dark&font=Yrsa))
 
   [![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
 
