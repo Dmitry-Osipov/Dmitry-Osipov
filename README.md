@@ -27,10 +27,6 @@
 
   [![codewars](https://www.codewars.com/users/OcelotAgent/badges/large)](https://www.codewars.com/users/OcelotAgent)    
 
-  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=OcelotAgent&theme=dark)](https://github.com/OcelotAgent/leetcode-stats)
-
-  ![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcard.jacoblin.cool/OcelotAgent?theme=dark&font=Yrsa))
-
   [![Leetcode Stats](https://leetcard.jacoblin.cool/OcelotAgent)](https://leetcode.com/OcelotAgent)
 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitry-Osipov&theme=solarized_dark)
