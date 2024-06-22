@@ -31,7 +31,7 @@
 
   ![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcard.jacoblin.cool/OcelotAgent?theme=dark&font=Yrsa))
 
-  [![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/OcelotAgent)
 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitry-Osipov&theme=solarized_dark)
 
