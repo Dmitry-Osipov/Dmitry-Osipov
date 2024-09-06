@@ -14,6 +14,7 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=Dmitry-Osipov)](https://github.com/Dmitry-Osipov/github-profile-trophy)
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dmitry-Osipov)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Dmitry-Osipov)](https://git.io/streak-stats)
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmitry-Osipov)](https://github.com/Dmitry-Osipov/github-readme-stats)
   
